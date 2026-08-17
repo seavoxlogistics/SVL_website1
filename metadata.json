@@ -1,0 +1,6 @@
+{
+  "name": "SeaVox Logistics",
+  "description": "Premier China to Pakistan import & global freight forwarding specialist delivering sourcing, customs clearance, and door-to-door cargo services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
